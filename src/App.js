@@ -4,7 +4,7 @@ import './App.css';
 import Main from './header/main/main';
 
 function App() {
-  const text = ''
+  const text = 'askdfljeiofjse;lfij'
   const API_KEY = "317147e078c54d6c882102156230710";
   const [city,Setcity] = useState("")
   const [weather,setWeather]  = useState({})
